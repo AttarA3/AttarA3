@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Attar Ashif</h1>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=attara3&theme=react-dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AttarA3&theme=dark)](https://git.io/streak-stats)
+
 
 
 <h3 align="center">💻 Python Developer | AI Enthusiast | Software Engineer</h3>

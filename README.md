@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Attar Ashif</h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/AttarA3/image-file-name.svg" width="400">
-</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=attara3&theme=react-dark)
+
 
 <h3 align="center">💻 Python Developer | AI Enthusiast | Software Engineer</h3>
 

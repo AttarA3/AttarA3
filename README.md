@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Attar Ashif</h1>
+
+<p>&nbsp;<img align="center" src="https://user-images.githubusercontent.com/attara3/image-file-name.svg#gh-dark-mode-only" alt="attara3" /></p>
+
+
 <h3 align="center">💻 Python Developer | AI Enthusiast | Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=attara3&label=Profile%20views&color=0e75b6&style=flat" alt="attara3" /> </p>

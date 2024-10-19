@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Attar Ashif</h1>
 
-<p>&nbsp;<img align="center" src="https://user-images.githubusercontent.com/attara3/image-file-name.svg#gh-dark-mode-only" alt="attara3" /></p>
+<p><img align="center" src="https://user-images.githubusercontent.com/attara3/image-file-name.svg#gh-dark-mode-only" alt="attara3" /></p>
 
 
 <h3 align="center">💻 Python Developer | AI Enthusiast | Software Engineer</h3>

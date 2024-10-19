@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ashif-attar-211a05234/](https://www.linkedin.com/in/ashif-attar-211a05234/)
 
-- ⚡ Fun fact **I believe that AI and automation empower humans, making us more productive and creative!**
+- ⚡ Fun fact: **I believe that AI and automation empower humans, making us more productive and creative!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

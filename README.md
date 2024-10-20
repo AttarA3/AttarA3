@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://your-uploaded-image-url" alt="GitHub Contribution Graph" />
+  <img src="https://github.com/AttarA3/AttarA3/blob/main/gh-profile-banner.png" alt="GitHub Contribution Graph" />
 </p>
 
 

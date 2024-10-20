@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Attar Ashif</h1>
 
 
+<p align="center">
+  <img src="https://your-uploaded-image-url" alt="GitHub Contribution Graph" />
+</p>
 
 
 <h3 align="center">💻 Python Developer | AI Enthusiast | Software Engineer</h3>

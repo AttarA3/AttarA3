@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Attar Ashif</h1>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AttarA3&theme=dark)](https://git.io/streak-stats)
 
 
 
